@@ -4,4 +4,5 @@ Rencana Konten Tyer Way
 - Main RE3
   * Minimal satu jam konten
   * Main sampe tamat
+- Main Ride 4
 - Membuat vlog real
